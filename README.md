@@ -9,8 +9,8 @@ The slides in this slideshow wobble as they move. The effect is based on Sergey 
 
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
 
+**NOTE THIS IS A BACKUP**
+
 Read more here: [License](http://tympanus.net/codrops/licensing/)
-
 Icons by [Pixel Buddha](http://pixelbuddha.net/)
-
 [© Codrops 2014](http://www.codrops.com)
